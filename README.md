@@ -1,1 +1,1 @@
-# Discord-Starter-Template
+# Discord-Bot-Starter-Template
